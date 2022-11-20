@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "titleTemplate": "%s · Blog",
+    "title": "",
+    "author": {
+      "name": "",
+      "summary": "",
+      "profile": "../assets/profile-pic.png"
+    },
+    "description": "",
+    "social": {
+      "github": {
+        "title": "github",
+        "username": "",
+        "url": "https://github.com/"
+      },
+      "twitter": {
+        "title": "twitter",
+        "username": "",
+        "url": "https://twitter.com/"
+      },
+      "instagram": {
+        "title": "instagram",
+        "username": "",
+        "url": "https://www.instagram.com/"
+      },
+      "email": {
+        "title": "email",
+        "username": "",
+        "url": "mailto:` }"
+      }
+    },
+    "siteUrl": "https://gatsbyglass.netlify.app"
+  }
+}
