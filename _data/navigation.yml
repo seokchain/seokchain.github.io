@@ -1,0 +1,49 @@
+# main links
+main:
+  - title: "Home"
+    url: https://seokchain.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/seokchain
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "Backend"
+    children:
+
+  - title: "CS"
+    children:
+      - title: "Database"
+        url: /categories/Database/
+      - title: "Network"
+        url: /categories/Network/
+      - title: "컴퓨터구조"
+        url: /categories/컴퓨터구조/
+      - title: "운영체제"
+        url: /categories/운영체제/
+      - title: "자료구조"
+        url: /categories/자료구조/
+
+  - title: "Algorithm"
+    children:
+      - title: "Baekjoon"
+        url: /algorithm/Baekjoon/
+      - title: "Programmers"
+        url: /algorithm/Programmers/
+
+  - title: "Project"
+    children:
+      # - title: "Categories5"
+      #   url: /categories/categories5/
+      # - title: "Categories6"
+      #   url: /categories/categories6/
