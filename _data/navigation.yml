@@ -20,26 +20,32 @@ main:
 categories:
   - title: "Backend"
     children:
+      - title: "Java"
+        url: /backend/java/
+      - title: "Spring"
+        url: /backend/spring/
+      - title: "JPA"
+        url: /backend/jpa/
 
   - title: "CS"
     children:
       - title: "Database"
-        url: /categories/Database/
+        url: /cs/database/
       - title: "Network"
-        url: /categories/Network/
+        url: /cs/network/
       - title: "컴퓨터구조"
-        url: /categories/컴퓨터구조/
+        url: /cs/컴퓨터구조/
       - title: "운영체제"
-        url: /categories/운영체제/
+        url: /cs/운영체제/
       - title: "자료구조"
-        url: /categories/자료구조/
+        url: /cs/자료구조/
 
   - title: "Algorithm"
     children:
       - title: "Baekjoon"
-        url: /algorithm/Baekjoon/
+        url: /algorithm/baekjoon/
       - title: "Programmers"
-        url: /algorithm/Programmers/
+        url: /algorithm/programmers/
 
   - title: "Project"
     children:
