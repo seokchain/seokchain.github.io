@@ -42,6 +42,8 @@ categories:
 
   - title: "Algorithm"
     children:
+      - title: "Algorithm"
+        url: /algorithm/algorithm/
       - title: "Baekjoon"
         url: /algorithm/baekjoon/
       - title: "Programmers"
